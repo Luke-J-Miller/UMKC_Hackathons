@@ -1,14 +1,15 @@
-UMKC								
-2025 Spring Research-A-Thon								
-AI/DS Graduate Track (PhD) - 7 Posters								
+# UMKC								2025 Spring Research-A-Thon								
+## AI/DS Graduate Track (PhD) - 7 Posters								
 | Poster #	| Track	| Team Name	| Project | Name	| Poster	| Video			| 
-|1	|Data Science / AI – Graduate	|NavClone	NavClone: Imitation Learning Enhanced Robot Navigation with 2D Grid	|https://drive.google.com/open?id=1X6Fjl4dpLQ8Bb6Onlzxw6VijIFf8_qJV	|https://umkc.box.com/s/jmr7grkcp02axqtwbscbk6toxafmg7rw			|
-|2	|Data Science / AI – Graduate	|Alpha	KARMA:  A Knowledge Graph Framework for Explainable and Personalized AI in Healthcare	|https://drive.google.com/open?id=1u8NKwpjzxijtvorTKg5CNdAafrWJ_Hcy	|https://drive.google.com/file/d/1SAzC-dnqE7wFG1FpCC4tCoZWDWmuzSrI/view?usp=sharing			|
-|3	|Data Science / AI – Graduate	|SAEED ALQARNI	SAM-KG: Knowledge Graph-Enhanced Tumor Segmentation with Zero-Shot Foundation Models	|https://drive.google.com/open?id=1OtLqxzUsH2OSfSXwbUJ6MbkO58b78L29	|https://drive.google.com/file/d/1lVPczqeZKk8JB_bB8u-s6UHROHbiR4u1/view?usp=sharing		|	
-|4	|Data Science / AI – Graduate	|PoseCorrect	PostCorrect: Real-Time Posture Correction and Feedback Using Vision Transformers and LLMs	|https://drive.google.com/open?id=1TJHaVblDVKwROxmoCe-8ky_NIoTtzTBC	|https://drive.google.com/drive/folders/1Pq1Miiy3xX3SCMNEc43b_mZ1V91b3uVQ?usp=sharing			|
-|5	|Data Science / AI – Graduate	|Ghadah	Real-Time Rumor Detection: Dynamic Graph Attention Partial Differential Equation|	https://drive.google.com/open?id=1hsgw-6R1ofaGM2l-VEiqyBVqJGO4lVD3|	NA			|
-|6	|Data Science / AI – Graduate	|G2SEM	G2SEM: Gradient-Guided Semantic Relationship Analysis for CLIP Interpretability	|https://drive.google.com/open?id=1vINDj2FrHGPJHEDkg7RnuWIyIcwhcG25	|https://drive.google.com/file/d/1pYGtzAPlAbfR4LlLW_d2H05aqiT9FMap/view?usp=drive_link			|
-|7	|Data Science / AI – Graduate	|Edge Transformers	Batching Model Slices for Resource-efficient Execution of Transformer Models in Edge AI	|https://drive.google.com/open?id=1o_7R-2E__ihdi_EoGJD8V8AtX5XPdFxv|	https://youtu.be/EccwZ26RPm8			|
+|-----------|-------|-----------|---------|-------|---------|-----------|
+1	|Data Science / AI – Graduate	|NavClone	|NavClone: Imitation Learning Enhanced Robot Navigation with 2D Grid	|https://drive.google.com/open?id=1X6Fjl4dpLQ8Bb6Onlzxw6VijIFf8_qJV	|https://umkc.box.com/s/jmr7grkcp02axqtwbscbk6toxafmg7rw			|
+|2	|Data Science / AI – Graduate	|Alpha	|KARMA:  A Knowledge Graph Framework for Explainable and Personalized AI in Healthcare	|https://drive.google.com/open?id=1u8NKwpjzxijtvorTKg5CNdAafrWJ_Hcy	|https://drive.google.com/file/d/1SAzC-dnqE7wFG1FpCC4tCoZWDWmuzSrI/view?usp=sharing			|
+|3	|Data Science / AI – Graduate	|SAEED ALQARNI	|SAM-KG: Knowledge Graph-Enhanced Tumor Segmentation with Zero-Shot Foundation Models	|https://drive.google.com/open?id=1OtLqxzUsH2OSfSXwbUJ6MbkO58b78L29	|https://drive.google.com/file/d/1lVPczqeZKk8JB_bB8u-s6UHROHbiR4u1/view?usp=sharing		|	
+|4	|Data Science / AI – Graduate	|PoseCorrect|	PostCorrect: Real-Time Posture Correction and Feedback Using Vision Transformers and LLMs	|https://drive.google.com/open?id=1TJHaVblDVKwROxmoCe-8ky_NIoTtzTBC	|https://drive.google.com/drive/folders/1Pq1Miiy3xX3SCMNEc43b_mZ1V91b3uVQ?usp=sharing			|
+|5	|Data Science / AI – Graduate	|Ghadah	|Real-Time Rumor Detection: Dynamic Graph Attention Partial Differential Equation|	https://drive.google.com/open?id=1hsgw-6R1ofaGM2l-VEiqyBVqJGO4lVD3|	NA			|
+|6	|Data Science / AI – Graduate	|G2SEM	|G2SEM: Gradient-Guided Semantic Relationship Analysis for CLIP Interpretability	|https://drive.google.com/open?id=1vINDj2FrHGPJHEDkg7RnuWIyIcwhcG25	|https://drive.google.com/file/d/1pYGtzAPlAbfR4LlLW_d2H05aqiT9FMap/view?usp=drive_link			|
+|7	|Data Science / AI – Graduate	|Edge Transformers|	Batching Model Slices for Resource-efficient Execution of Transformer Models in Edge AI	|https://drive.google.com/open?id=1o_7R-2E__ihdi_EoGJD8V8AtX5XPdFxv|	https://youtu.be/EccwZ26RPm8			|
+
 AI/DS Graduate Track (MS) - 15 Posters								
 Poster #	|Track|	Team Name	|Project Name	|Poster	|Video		|	
 |8	|Data Science / AI – Graduate	|Data Depth Explorers	LLMout - NFL Multimodal Offensive Strategy Report Generator	|https://drive.google.com/open?id=1YN_6kRZmmv5ui5OCUxRc0lD64alyHceZ	|https://www.youtube.com/watch?v=oUead7DXWNs&ab_channel=JainilPatel			|
