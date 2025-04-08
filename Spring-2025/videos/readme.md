@@ -1,5 +1,7 @@
-# UMKC								2025 Spring Research-A-Thon								
+# UMKC								2025 Spring Research-A-Thon						
+
 ## AI/DS Graduate Track (PhD) - 7 Posters								
+
 | Poster #	| Track	| Team Name	| Project  Name	| Poster	| Video			| 
 |-----------|-------|-----------|---------------|---------|-_---------|
 1	|Data Science / AI – Graduate	|NavClone	|NavClone: Imitation Learning Enhanced Robot Navigation with 2D Grid	|https://drive.google.com/open?id=1X6Fjl4dpLQ8Bb6Onlzxw6VijIFf8_qJV	|https://umkc.box.com/s/jmr7grkcp02axqtwbscbk6toxafmg7rw			|
@@ -10,7 +12,9 @@
 |6	|Data Science / AI – Graduate	|G2SEM	|G2SEM: Gradient-Guided Semantic Relationship Analysis for CLIP Interpretability	|https://drive.google.com/open?id=1vINDj2FrHGPJHEDkg7RnuWIyIcwhcG25	|https://drive.google.com/file/d/1pYGtzAPlAbfR4LlLW_d2H05aqiT9FMap/view?usp=drive_link			|
 |7	|Data Science / AI – Graduate	|Edge Transformers|	Batching Model Slices for Resource-efficient Execution of Transformer Models in Edge AI	|https://drive.google.com/open?id=1o_7R-2E__ihdi_EoGJD8V8AtX5XPdFxv|	https://youtu.be/EccwZ26RPm8			|
 
+
 ## AI/DS Graduate Track (MS) - 15 Posters								
+
 | Poster #	| Track	| Team Name	| Project  Name	| Poster	| Video			| 
 |-----------|-------|-----------|---------------|---------|-_---------|	
 |8	|Data Science / AI – Graduate	|Data Depth Explorers	|LLMout - NFL Multimodal Offensive Strategy Report Generator	|https://drive.google.com/open?id=1YN_6kRZmmv5ui5OCUxRc0lD64alyHceZ	|https://www.youtube.com/watch?v=oUead7DXWNs&ab_channel=JainilPatel			|
@@ -28,12 +32,18 @@
 |20	|Data Science / AI – Graduate	|Ai Career Navigators	|AI-Powered Job Search Assistant	|https://drive.google.com/open?id=1V7WwrzlgMkgGQGE-o8gH3s7Tsw1bZQSl|	https://youtu.be/F6bv1etgPKI			|
 |21	|Data Science / AI – Graduate	|Data Chiefs|	SunnyCare AI Assistant	|https://drive.google.com/open?id=1AOUITQw6IBVa2J3WSDrpHMur0H6iCEfm	|https://drive.google.com/file/d/1gPudbICuPm7NAY5YSYMMLPD2B9KZCEuH/view?usp=sharing			|
 |22	|Data Science / AI – Graduate	|NextGen Data Bloomers|	Customer Segmentation	|https://drive.google.com/open?id=1Hmnj037mDkzKNNiuEIKh1mkrEKy3YO2f	|https://drive.google.com/file/d/1pzLvzMgEzWCpre2pLzWRRqWj8lXKuRYq/view?usp=sharing			|
-## AI/DS Undergraduate Track - 2 Posters								
+
+
+## AI/DS Undergraduate Track - 2 Posters		
+
 | Poster #	| Track	| Team Name	| Project  Name	| Poster	| Video			| 
 |-----------|-------|-----------|---------------|---------|----------|
 |23	|Data Science / AI – Undergraduate	|XAI Pioneer	|Bridging the Gap: Explainable AI for Trustworthy Healthcare	|https://drive.google.com/open?id=1YgU_URK07b070ql2U13SCXWTyz3YnI2c	|https://drive.google.com/file/d/1-51QptWK_D3m56Zo5gt1TYBJi4HXnN_V/view?usp=sharing			|
 |24	|Data Science / AI – Undergraduate	|The Brady Bunch	|Frame Pruner: An SVM-based Approach To Improving Detection Model Resource Consumption	|https://drive.google.com/open?id=1ZlEYidZ4pG9zMvstKtGTzUxpszlOxaCH	|https://youtu.be/fax953RTKGk			|
-Quantum AI Track - 5 Posters								
+
+
+## Quantum AI Track - 5 Posters								
+
 |Poster #	|Track|	Team Name	|Project Name|	Poster	|Video			|
 |25	|Quantum AI	|Quantum Empower|	Intrusion Detection using Quantum Enhanced Graph Attention Networks and Feed-Forward Neural Networks|	https://drive.google.com/open?id=18aPNgu5-TfNDIrLGpSvLSZ9e2w0FOtna	|https://youtu.be/enVXv8rZyeY			|
 |26	|Quantum AI	|Akatsuki|	Akatsuki	|https://drive.google.com/open?id=1Bej4XiN2UeGdq4xR2BCWUCN1PQWJGVJC|	https://drive.google.com/file/d/1M8JFtdsBVsTrMugu3OjiSQxFjb01fk81/view?usp=sharing			|
