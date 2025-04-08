@@ -1,3 +1,5 @@
+# Highlight Page
+
 # UMKC Research-A-Thon 2025 🎉
 Welcome to the official GitHub for **UMKC Research-A-Thon 2025**, a student-led hackathon focused on **Data Science and Artificial Intelligence**, with an additional **Quantum Computing** track. This event brought together researchers and innovators from across academic levels to solve real-world challenges, collaborate across disciplines, and showcase cutting-edge solutions.
 
