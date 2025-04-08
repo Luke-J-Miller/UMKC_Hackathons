@@ -36,12 +36,13 @@ A huge thank you to our sponsors who helped make this event possible:
 - **IBM Quantum**
 
 ## Guest Speakers
-**Adam Larson - Regnier Instititute** 
-![IMG_0294](https://github.com/user-attachments/assets/d607834a-79fe-4348-bc2d-f9d8bd5fb090)
-
-**Kyrian Adimora - IEEE**  
+### Kyrian Adimora - IEEE
   
 ![image](https://github.com/user-attachments/assets/77809e29-f852-4104-88ac-febcd6baf538)
+### Adam Larson - Regnier Instititute
+![IMG_0294](https://github.com/user-attachments/assets/d607834a-79fe-4348-bc2d-f9d8bd5fb090)
+
+
 
 
 
