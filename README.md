@@ -5,7 +5,7 @@ Welcome to the official GitHub for **UMKC Research-A-Thon 2025**, a student-led 
 
 ## 🚀 Event Overview
 
-**UMKC Research-A-Thon** was held in Spring 2025 and featured:
+**UMKC Research-A-Thon** was held April 4th, 2025 and featured:
 
 - 👥 **36 participants**
 - 🧠 **4 focused tracks**:
@@ -145,7 +145,7 @@ Explore some of the winning and featured submissions in this repository under th
 
 ## 📸 Photos & Media
 
-Check out highlights from the event in the `media/` folder. Includes team photos, demo sessions, and sponsor shoutouts!
+Check out highlights from the event in the [photos folder](https://github.com/Luke-J-Miller/UMKC_Hackathons/tree/main/Spring-2025/photos).
 ![image](https://github.com/user-attachments/assets/b1744662-4d04-44ea-8ff7-7aff99821a7e)
 
 ![image](https://github.com/user-attachments/assets/19b23252-2ef6-447f-9a54-701b8169d1ac)
