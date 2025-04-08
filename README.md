@@ -88,6 +88,12 @@ Amrutha Perumalla, Priyanka Adusumilli, Maheshwar Rao Bandi,
 ![IMG_0293](https://github.com/user-attachments/assets/da3f6976-e7ac-4707-85f9-550231dcd3fe)
 
 
+**Team 10. Fall Detection for Elderly People Living Alone Based on Yolov5 and ARKit**	
+Hui Jin,  Jayadithya Nalajala, Saniya Pandita, Sai Jahnavi Devabhakthuni
+![IMG_0272](https://github.com/user-attachments/assets/e6807913-b84b-45ba-a177-7d71781f4a75)
+
+
+
 ### Data Science & AI: PhD Track Winners
 #### 1st Place
 **Team 3. SAM-KG: Knowledge Graph-Enhanced Tumor Segmentation with Zero-Shot Foundation Models**
@@ -97,7 +103,7 @@ Saeed Alqarni
 #### 2nd Place
 **Team 1. NavClone: Imitation Learning Enhanced Robot Navigation with 2D Grid**
 Ahmed Alanazi
-![IMG_0284](https://github.com/user-attachments/assets/1e86e175-86bf-4a10-8974-51f0bbd5d383)
+![IMG_0283](https://github.com/user-attachments/assets/8024abcf-77da-4b4b-a1c2-0b86a15ad2b2)
 
 
 #### 3rd Place
