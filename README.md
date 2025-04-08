@@ -159,7 +159,7 @@ Check out highlights from the event in the [photos folder](https://github.com/Lu
 
 For questions, collaboration opportunities, or future event inquiries, reach out to the organizing team at:
 
-**ljmbm@umkc.edu**
+**ljmbm@umsystem.edu**
 
 
 
