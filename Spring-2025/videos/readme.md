@@ -1,31 +1,39 @@
-# Graduate Track
-[Dharani Thakkapally, WanderTales_VideoDemo](https://www.youtube.com/watch?v=OP6S-6DFc4o)  
-  
-[Gayathri Mammaneni](https://drive.google.com/file/d/1pzLvzMgEzWCpre2pLzWRRqWj8lXKuRYq/view)  
-  
-[Yashavi R](https://drive.google.com/file/d/1gPudbICuPm7NAY5YSYMMLPD2B9KZCEuH/view)  
-
-[Rohith Sai Charan Eanugula, MultimodalMavericks](https://drive.google.com/file/d/1VkucFMEkVTU_psr6ZY7rlvaA2W1AMq3m/view)  
-
-
-
-
-
-
-
-# Undergraduate Track
-[Rahul Vajja](https://drive.google.com/file/d/1-51QptWK_D3m56Zo5gt1TYBJi4HXnN_V/view)  
-
-[Brady Maes, Frame Pruner: SVM-Based Detection Model Frame Skipping](https://www.youtube.com/watch?v=fax953RTKGk)  
-  
-#Quantum Track
-[Tom Steinman](https://www.youtube.com/watch?v=enVXv8rZyeY)  
-
-[Jayadithya Nalajala](https://drive.google.com/file/d/1M8JFtdsBVsTrMugu3OjiSQxFjb01fk81/view)
-
-[Abhinav Kochar](https://drive.google.com/drive/folders/1JgfkQL6Cbs2ok1D6pQ_mxWDtedxGbMhc)  
-
-[Cameron Akhtar](https://www.youtube.com/watch?v=RI7uadSL3cI)  
-
-[Luke Miller](https://www.youtube.com/watch?v=Kz0qVs5qQKc)
-
+UMKC								
+2025 Spring Research-A-Thon								
+AI/DS Graduate Track (PhD) - 7 Posters								
+| Poster #	| Track	| Team Name	| Project | Name	| Poster	| Video			| 
+|1	|Data Science / AI – Graduate	|NavClone	NavClone: Imitation Learning Enhanced Robot Navigation with 2D Grid	|https://drive.google.com/open?id=1X6Fjl4dpLQ8Bb6Onlzxw6VijIFf8_qJV	|https://umkc.box.com/s/jmr7grkcp02axqtwbscbk6toxafmg7rw			|
+|2	|Data Science / AI – Graduate	|Alpha	KARMA:  A Knowledge Graph Framework for Explainable and Personalized AI in Healthcare	|https://drive.google.com/open?id=1u8NKwpjzxijtvorTKg5CNdAafrWJ_Hcy	|https://drive.google.com/file/d/1SAzC-dnqE7wFG1FpCC4tCoZWDWmuzSrI/view?usp=sharing			|
+|3	|Data Science / AI – Graduate	|SAEED ALQARNI	SAM-KG: Knowledge Graph-Enhanced Tumor Segmentation with Zero-Shot Foundation Models	|https://drive.google.com/open?id=1OtLqxzUsH2OSfSXwbUJ6MbkO58b78L29	|https://drive.google.com/file/d/1lVPczqeZKk8JB_bB8u-s6UHROHbiR4u1/view?usp=sharing		|	
+|4	|Data Science / AI – Graduate	|PoseCorrect	PostCorrect: Real-Time Posture Correction and Feedback Using Vision Transformers and LLMs	|https://drive.google.com/open?id=1TJHaVblDVKwROxmoCe-8ky_NIoTtzTBC	|https://drive.google.com/drive/folders/1Pq1Miiy3xX3SCMNEc43b_mZ1V91b3uVQ?usp=sharing			|
+|5	|Data Science / AI – Graduate	|Ghadah	Real-Time Rumor Detection: Dynamic Graph Attention Partial Differential Equation|	https://drive.google.com/open?id=1hsgw-6R1ofaGM2l-VEiqyBVqJGO4lVD3|	NA			|
+|6	|Data Science / AI – Graduate	|G2SEM	G2SEM: Gradient-Guided Semantic Relationship Analysis for CLIP Interpretability	|https://drive.google.com/open?id=1vINDj2FrHGPJHEDkg7RnuWIyIcwhcG25	|https://drive.google.com/file/d/1pYGtzAPlAbfR4LlLW_d2H05aqiT9FMap/view?usp=drive_link			|
+|7	|Data Science / AI – Graduate	|Edge Transformers	Batching Model Slices for Resource-efficient Execution of Transformer Models in Edge AI	|https://drive.google.com/open?id=1o_7R-2E__ihdi_EoGJD8V8AtX5XPdFxv|	https://youtu.be/EccwZ26RPm8			|
+AI/DS Graduate Track (MS) - 15 Posters								
+Poster #	|Track|	Team Name	|Project Name	|Poster	|Video		|	
+|8	|Data Science / AI – Graduate	|Data Depth Explorers	LLMout - NFL Multimodal Offensive Strategy Report Generator	|https://drive.google.com/open?id=1YN_6kRZmmv5ui5OCUxRc0lD64alyHceZ	|https://www.youtube.com/watch?v=oUead7DXWNs&ab_channel=JainilPatel			|
+|9	|Data Science / AI – Graduate	|WanderCoders	WanderTales: AI-Powered Travel Stories & Recommendations	|https://drive.google.com/open?id=1n90nnriq_z7D-9kXnYwUHpLoMGEk-26d	|https://www.youtube.com/watch?v=OP6S-6DFc4o			|
+|10	|Data Science / AI – Graduate	|Bug Killers	Fall Detection for Elderly People Living Alone Based on Yolov5 and ARKit	|https://drive.google.com/open?id=1Y_BUBeNihtPvRXHN8_ORFWWLm1iemS5M	|https://drive.google.com/file/d/1iyj4vnqIanCYF8AbxEZ_opf5QvfcSFAv/view?usp=sharing			|
+|11	|Data Science / AI – Graduate	|Creator	Creator’s Algorithm - A new design pattern	|https://drive.google.com/open?id=1KoTUs0Rlk40Ukb_O8z1_OsJKO-bhhoMf	|https://youtu.be/F2Cc8RPy2Qc			|
+|12	|Data Science / AI – Graduate	|E-Commerce Team	E-Commerce User Behavior Analysis & Recommendation System	|https://drive.google.com/open?id=1kZww2Ic_kEZvkE6zAkfVdOQ6x1NAav3Y|	https://youtu.be/6cHbnVtINMc			|
+|13	|Data Science / AI – Graduate	|Multimodal Mavericks	AI-Powered Multimodal Marketing Content Generator with Customizable Product Visualization	|https://drive.google.com/open?id=1olhY9H33EaQAPKKWMgqxegU88Wj4p2_B	|https://drive.google.com/file/d/1VkucFMEkVTU_psr6ZY7rlvaA2W1AMq3m/view?usp=drive_link			|
+|14	|Data Science / AI – Graduate	|Chain Vision	AI Powered Supply Chain Resilience Index (SCRI)|	|https://drive.google.com/open?id=1GjaZyXK4fsLqhXMGHB4zSAoLjYCgBps6	|https://umsystem.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=de5f86df-a985-4779-a2a5-b2b20105fa61			|
+|15	|Data Science / AI – Graduate	|Fraud Detectors	Predicting Credit Risk Using Machine Learning	|https://drive.google.com/open?id=1bUfG3ExdROR6-lrbuwqcfneHahKaDmFx	|https://umsystem.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f5396de7-f0a1-40ec-a3c2-b2b2010e8eb6			|
+|16	|Data Science / AI – Graduate	|Machine Learners	Grocery Tracker & Recommendation Generator  AI for Smarter Grocery Choices and Meal Planning	|https://drive.google.com/open?id=128-0EL_w2KbXPxSPReZg-kPB0mFi_Yna	|https://www.youtube.com/watch?v=qhfT_zurUMA			|
+|17	|Data Science / AI – Graduate	|Generative Geniuses	Towards Smarter Cyber Defense: Anomaly Detection with Autoencoders and LLM-Driven Threat Intelligence	|https://drive.google.com/open?id=1aPioNuEeYK32wHiaUx47Qlh6YBogcFQU	|https://www.youtube.com/watch?v=urFNDvC0exM			|
+|18	|Data Science / AI – Graduate	|Game Changer	Multimodal Sentiment Intelligence Platform for Dynamic Market Insights|	https://drive.google.com/open?id=1hoz3_WF1qcK40aYqnQb_cmNreUA5JjGg	|https://github.com/VinayAlli/Presentation_links			|
+|19	|Data Science / AI – Graduate	|Codecrackers	Emotion recognition from speech	|https://drive.google.com/open?id=1v_HKBFi0FpuYKqW6iyxOK6x33GWplYU6|	https://drive.google.com/file/d/1Ko-qnb6sXjbDTh2IMJj-_egv2rh11qty/view?usp=drivesdk			|
+|20	|Data Science / AI – Graduate	|Ai Career Navigators	AI-Powered Job Search Assistant	|https://drive.google.com/open?id=1V7WwrzlgMkgGQGE-o8gH3s7Tsw1bZQSl|	https://youtu.be/F6bv1etgPKI			|
+|21	|Data Science / AI – Graduate	|Data Chiefs	SunnyCare AI Assistant	|https://drive.google.com/open?id=1AOUITQw6IBVa2J3WSDrpHMur0H6iCEfm	|https://drive.google.com/file/d/1gPudbICuPm7NAY5YSYMMLPD2B9KZCEuH/view?usp=sharing			|
+|22	|Data Science / AI – Graduate	|NextGen Data Bloomers	Customer Segmentation	|https://drive.google.com/open?id=1Hmnj037mDkzKNNiuEIKh1mkrEKy3YO2f	|https://drive.google.com/file/d/1pzLvzMgEzWCpre2pLzWRRqWj8lXKuRYq/view?usp=sharing			|
+AI/DS Undergraduate Track - 2 Posters								
+|Poster #	|Track	|Team Name	|Project Name	|Poster|	Video			|
+|23	|Data Science / AI – Undergraduate	|XAI Pioneer	Bridging the Gap: Explainable AI for Trustworthy Healthcare	|https://drive.google.com/open?id=1YgU_URK07b070ql2U13SCXWTyz3YnI2c	|https://drive.google.com/file/d/1-51QptWK_D3m56Zo5gt1TYBJi4HXnN_V/view?usp=sharing			|
+|24	|Data Science / AI – Undergraduate	|The Brady Bunch	Frame Pruner: An SVM-based Approach To Improving Detection Model Resource Consumption	|https://drive.google.com/open?id=1ZlEYidZ4pG9zMvstKtGTzUxpszlOxaCH	|https://youtu.be/fax953RTKGk			|
+Quantum AI Track - 5 Posters								
+|Poster #	|Track|	Team Name	|Project Name|	Poster	|Video			|
+|25	|Quantum AI	|Quantum Empower	Intrusion Detection using Quantum Enhanced Graph Attention Networks and Feed-Forward Neural Networks|	https://drive.google.com/open?id=18aPNgu5-TfNDIrLGpSvLSZ9e2w0FOtna	|https://youtu.be/enVXv8rZyeY			|
+|26	|Quantum AI	|Akatsuki	Akatsuki	|https://drive.google.com/open?id=1Bej4XiN2UeGdq4xR2BCWUCN1PQWJGVJC|	https://drive.google.com/file/d/1M8JFtdsBVsTrMugu3OjiSQxFjb01fk81/view?usp=sharing			|
+|27	|Quantum AI	|Spectra	A Quantum-Enhanced Transformer System for Real-Time Intraday Stock Forecasting	|https://drive.google.com/open?id=1Wv8lP6cyb0vQiTKtHNLzrqcqcgDYzPH_	|https://drive.google.com/drive/folders/1JgfkQL6Cbs2ok1D6pQ_mxWDtedxGbMhc?usp=sharing			|
+|28	|Quantum AI	|Cameron Akhtar	Quantum State Compression: Simulation-Hardware Gap	|https://drive.google.com/open?id=1SyJpoqITfcfqEFGTOESPyc6R9NF2iLVL	|https://youtu.be/RI7uadSL3cI			|
+|29	|Quantum AI	|Miller	Line Graph Quantum Embeddings for Learning on Edge-Centric Graphs	|https://umkc.box.com/s/jws9dsi9mtiwse5hyii60hzcqk3xfzy5	|https://umkc.box.com/s/1ubxbsidh8fqsf9vye5ciqpra5ucph7q			|
