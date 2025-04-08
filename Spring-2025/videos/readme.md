@@ -4,7 +4,7 @@
 
 | Poster #	| Track	| Team Name	| Project  Name	| Poster	| Video			| 
 |-----------|-------|-----------|---------------|---------|-_---------|
-1	|Data Science / AI – Graduate	|NavClone	|NavClone: Imitation Learning Enhanced Robot Navigation with 2D Grid	|https://drive.google.com/open?id=1X6Fjl4dpLQ8Bb6Onlzxw6VijIFf8_qJV	|https://umkc.box.com/s/jmr7grkcp02axqtwbscbk6toxafmg7rw			|
+| 1	|Data Science / AI – Graduate	|NavClone	|NavClone: Imitation Learning Enhanced Robot Navigation with 2D Grid	|https://drive.google.com/open?id=1X6Fjl4dpLQ8Bb6Onlzxw6VijIFf8_qJV	|https://umkc.box.com/s/jmr7grkcp02axqtwbscbk6toxafmg7rw			|
 |2	|Data Science / AI – Graduate	|Alpha	|KARMA:  A Knowledge Graph Framework for Explainable and Personalized AI in Healthcare	|https://drive.google.com/open?id=1u8NKwpjzxijtvorTKg5CNdAafrWJ_Hcy	|https://drive.google.com/file/d/1SAzC-dnqE7wFG1FpCC4tCoZWDWmuzSrI/view?usp=sharing			|
 |3	|Data Science / AI – Graduate	|SAEED ALQARNI	|SAM-KG: Knowledge Graph-Enhanced Tumor Segmentation with Zero-Shot Foundation Models	|https://drive.google.com/open?id=1OtLqxzUsH2OSfSXwbUJ6MbkO58b78L29	|https://drive.google.com/file/d/1lVPczqeZKk8JB_bB8u-s6UHROHbiR4u1/view?usp=sharing		|	
 |4	|Data Science / AI – Graduate	|PoseCorrect|	PostCorrect: Real-Time Posture Correction and Feedback Using Vision Transformers and LLMs	|https://drive.google.com/open?id=1TJHaVblDVKwROxmoCe-8ky_NIoTtzTBC	|https://drive.google.com/drive/folders/1Pq1Miiy3xX3SCMNEc43b_mZ1V91b3uVQ?usp=sharing			|
