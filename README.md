@@ -39,8 +39,10 @@ A huge thank you to our sponsors who helped make this event possible:
 **Adam Larson - Regnier Instititute** 
 ![IMG_0294](https://github.com/user-attachments/assets/d607834a-79fe-4348-bc2d-f9d8bd5fb090)
 
-**Kyrian Adimora - IEEE**
-![image](https://github.com/user-attachments/assets/e955e37a-2c59-433d-9362-7a2605649f68)
+**Kyrian Adimora - IEEE**  
+  
+![image](https://github.com/user-attachments/assets/77809e29-f852-4104-88ac-febcd6baf538)
+
 
 
 
