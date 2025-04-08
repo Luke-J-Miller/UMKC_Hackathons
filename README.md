@@ -79,7 +79,8 @@ Krutarth Lad, Jainil Patel, Jason Jordan, Harshitha Behera
 
 #### Honorable Mention
 **Team 13. AI-Powered Multimodal Marketing Content Generator with Customizable Product Visualization**
-![IMG_0293](https://github.com/user-attachments/assets/ee26b955-7d4e-4395-979f-eaead4617395)
+Rohith Sai Charan Eanugula, Vinay  Joshva, Hrishikesh Komaragiri, Sunil Reddy Janapala 
+![IMG_0262](https://github.com/user-attachments/assets/4f35c9eb-5a01-4dd2-bed3-d0c12307d025)
 
 ### Honorable Mention
 **Team 20. AI-Powered Job Search Assistant**
