@@ -1,8 +1,8 @@
 # How to Register and Submit to the Hackathon
 ## 1. Register
-Go to the following link **Fix me: make google new google form** [registration link](https://docs.google.com/forms/d/e/1FAIpQLSfNTkLk6gslOX3ojZ3u0ImedPLXggbpbXvT07XveWL1F_kINw/viewform?usp=sharing) by **Fix me, Add date** and fill in your team's information. You will need team member names, the project name, and the track to which you are submitting (UG/MS/PhD Data Science and AI, Quantum AI).  The organizers reserve the right to split or combine tracks based upon number of entries.
+Go to the following link **### Fix me: make google new google form** [registration link](https://docs.google.com/forms/d/e/1FAIpQLSfNTkLk6gslOX3ojZ3u0ImedPLXggbpbXvT07XveWL1F_kINw/viewform?usp=sharing) by **### Fix me, Add date** and fill in your team's information. You will need team member names, the project name, and the track to which you are submitting (UG/MS/PhD Data Science and AI, Quantum AI).  The organizers reserve the right to split or combine tracks based upon number of entries.
 ## 2. Get your team number
-After registering, you will be assigned a team number that can be viewed here [**Fix me, update spreadsheet to google form**]https://docs.google.com/spreadsheets/d/e/2PACX-1vQeLXkJojfAz8AygTPsM8zkVeHkOnQbTXbYqcLV9ZM65bTPd-oIl8Z92o1EANsqJZILNihlGKHe9ULq/pubhtml?gid=356453820&single=true . It may take up to ten minutes for your team number to be assigned.
+After registering, you will be assigned a team number that can be viewed here [**### Fix me, update spreadsheet to google form**]https://docs.google.com/spreadsheets/d/e/2PACX-1vQeLXkJojfAz8AygTPsM8zkVeHkOnQbTXbYqcLV9ZM65bTPd-oIl8Z92o1EANsqJZILNihlGKHe9ULq/pubhtml?gid=356453820&single=true . It may take up to ten minutes for your team number to be assigned.
 ## 3. Prepare your materials:
 ### Poster: 
 - You need to design a 36"x48" landscape poster.
